@@ -1,8 +1,9 @@
+
+<br><img width="1897" height="876" alt="s" src="https://github.com/user-attachments/assets/35d8bdd3-7d96-4c5f-a9bb-9d632874f6cb" />
 # API Documentation
 
 ## api/login
 **Use:** logs the user into the system
-<br>
 **Method:** POST
 <br>
 **Request Parameters:** 
