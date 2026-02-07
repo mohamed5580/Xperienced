@@ -1,5 +1,8 @@
 
-<br><img width="1897" height="876" alt="s" src="https://github.com/user-attachments/assets/35d8bdd3-7d96-4c5f-a9bb-9d632874f6cb" />
+
+<img width="1904" height="851" alt="Screenshot 2026-02-07 152539" src="https://github.com/user-attachments/assets/b5a69eff-36a9-43c5-80c2-e44eaacecd71" />
+
+
 # API Documentation
 
 ## api/login
